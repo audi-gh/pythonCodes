@@ -4,6 +4,8 @@ Created on Mon Aug  3 22:25:36 2020
 
 @author: Win10
 """
+#I have extracted all the prime factors and appended them into a list
+#Since 2 is the only even prime number we have considered it seperately
 
 
 n=int(input("enter the number"))
